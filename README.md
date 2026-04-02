@@ -1,18 +1,127 @@
-# 💫 About Me:
-Backend/DevOps/Automation enthusiast focused on building scalable and reliable systems. Experienced with Python, Go, JavaScript, and C++, developing APIs using FastAPI, Django, Flask, and Node.js. Strong interest in large-scale system architecture, database design, and system design fundamentals. Exploring DevOps practices, CI/CD, and infrastructure automation. Also interested in IoT, embedded systems, and ROS.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Hey%20There!%20I'm%20Himansh%20%F0%9F%91%8B&fontSize=30&fontColor=58a6ff&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himansh vasisht&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himansh vasisht&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himansh vasisht&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Welcome to My GitHub Universe!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himansh vasisht&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himansh vasisht&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="220px"/>
+
+### 👨‍💻 About Me
+
+- 🔧 **Backend Dev** building scalable APIs, automation systems & AI-powered pipelines
+- 🤖 Deep into **Agentic AI**, LLM workflows & Claude MCP integrations
+- ⚙️ Passionate about **DevOps**, CI/CD automation & containerized infrastructure
+- 🏛️ **Technical Club President** — leading teams & driving engineering initiatives
+- 🎓 B.Tech @ **Dr. ADGIPS, GGSIPU** — Batch of 2027
+- 📍 Based in **Delhi, India**
+- 🌱 Currently exploring **System Design** at scale & distributed architectures
+- ⚡ Fun fact: I made code that writes, tests & fixes itself 🤯
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansh-vasisht-63075124b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshvasisht)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshvasisht75@gmail.com)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🤖 **[AI Autonomous Dev System](https://github.com/himanshvasisht)** | Self-healing code pipeline using Claude MCP + n8n on Raspberry Pi | `Python` `n8n` `Claude MCP` |
+| 💳 **[Biometric Payment System](https://github.com/himanshvasisht/bipay)** | Fingerprint & facial-auth fintech backend with real-time transactions | `FastAPI` `Node.js` `PostgreSQL` |
+| ⚙️ **[CI/CD Automation Pipeline](https://github.com/himanshvasisht)** | Dockerized build-test-deploy pipeline with auto quality gates | `Docker` `GitHub Actions` `Linux` |
+| 🔗 **[Scalable API Architecture](https://github.com/himanshvasisht)** | Production-ready modular APIs with Redis caching | `FastAPI` `Django` `Redis` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himanshvasisht&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshvasisht&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=himanshvasisht&theme=tokyonight&hide_border=true" width="500"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=himanshvasisht&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshvasisht&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=himanshvasisht&icon=6&color=6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
